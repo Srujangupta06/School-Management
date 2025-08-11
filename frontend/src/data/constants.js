@@ -1,0 +1,1 @@
+export const LOGIN_PAGE_IMAGE_URL='https://res.cloudinary.com/djv3sgbxn/image/upload/v1754929362/Mobile_login-amico_ygg9jy.png'
